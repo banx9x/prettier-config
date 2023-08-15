@@ -1,0 +1,18 @@
+{
+  "private": false,
+  "name": "@banx9x/prettier-config",
+  "version": "1.0.1",
+  "description": "Prettier Config",
+  "main": "index.json",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banx9x/prettier-config.git"
+  },
+  "homepage": "https://github.com/banx9x/prettier-config",
+  "author": "Ba Nguyễn <banx9x@gmail.com> (https://banx.dev/)",
+  "license": "MIT"
+}
