@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "@banx9x/prettier-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Prettier Config",
   "main": "index.json",
   "keywords": [
@@ -14,5 +14,9 @@
   },
   "homepage": "https://github.com/banx9x/prettier-config",
   "author": "Ba Nguyễn <banx9x@gmail.com> (https://banx.dev/)",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier-plugin-tailwindcss": "^0.5.9",
+    "eslint-config-prettier": "^9.1.0"
+  }
 }
